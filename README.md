@@ -1,7 +1,9 @@
-# MwenseDHIS
-health information system deloped by IsaacMalemeo using Laravel 7 and bookstrap
+# Mwense District HIS
+health information system deloped by Isaac Malemeo using Laravel 7 and bookstrap
 
-![](shots/mwense_shot.png)
+![](shots/mwense_shot.PNG)
+
+# Installation and configuration
 
 Install Composer
 Run composer install in your terminal
